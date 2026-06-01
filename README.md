@@ -2,7 +2,7 @@
   <img src="favicon.svg" width="150" alt="Heart Icon" />
   <h2>Heart</h2>
   <p>Heart: Built out of curiosity.</p>
-  <a href="https://heart.great-site.net/">Visit <strong>Heart</strong></a> | <a href="https://github.com/PranavSagarXD/"><em>Pranav Sagar</em></a>
+  <a href="https://dub.sh/HeartWeb/">Visit <strong>Heart</strong></a> | <a href="https://github.com/PranavSagarXD/"><em>Pranav Sagar</em></a>
 </div>
 
 ## Table of Contents
