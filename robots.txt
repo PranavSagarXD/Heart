@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://heart.great-site.net/sitemap-index.xml

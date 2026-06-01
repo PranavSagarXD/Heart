@@ -1,0 +1,1 @@
+const t="_container_1hqld_1",n="_numberWrapper_1hqld_7",r="_button_1hqld_15",i="_number_1hqld_7",_="_digitWrapper_1hqld_36",e="_digits_1hqld_46",d="_digit_1hqld_36",o={container:t,numberWrapper:n,button:r,number:i,digitWrapper:_,digits:e,digit:d};export{o as s};

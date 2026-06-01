@@ -1,0 +1,1 @@
+const t="_container_1cp72_1",n="_wide_1cp72_6",s={container:t,wide:n},o="_instruction_194ez_1",c="_main_194ez_7",e="_active_194ez_19",i="_footer_194ez_26",_={instruction:o,main:c,active:e,footer:i};export{_ as a,s};

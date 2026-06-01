@@ -1,0 +1,1 @@
+import{r as t}from"./index.CLq0p-vc.js";import{u as a,M as u,B as r}from"./proxy.Ds4yJ7Kt.js";function i(o){const e=a(()=>r(o)),{isStatic:s}=t.useContext(u);if(s){const[,n]=t.useState(o);t.useEffect(()=>e.on("change",n),[])}return e}export{i as u};

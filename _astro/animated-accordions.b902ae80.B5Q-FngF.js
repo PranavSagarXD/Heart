@@ -1,0 +1,1 @@
+const o="_accordions_16ot3_1",t="_accordion_16ot3_1",n="_title_16ot3_14",c="_open_16ot3_25",_="_contentWrapper_16ot3_31",e="_content_16ot3_31",s={accordions:o,accordion:t,title:n,open:c,contentWrapper:_,content:e};export{s};
